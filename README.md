@@ -1,2 +1,0 @@
-# wan_project
-rs
